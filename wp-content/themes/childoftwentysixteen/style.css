@@ -1,0 +1,19 @@
+/*
+Theme name: Anupa's Theme
+description: child theme based on twentysixteen
+author: anupa singh
+version: 1.0
+template:twentysixteen
+*/
+@import url('../twentysixteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+/*font-family: 'Dancing Script', cursive;*/
+
+body{
+	background-color: pink;
+}
+.entry-title{
+	font-family:'Dancing Script', cursive;
+	color: green;
+}
