@@ -17,3 +17,11 @@ body{
 	font-family:'Dancing Script', cursive;
 	color: green;
 }
+#masthead{
+	background-color: blue;
+}
+/* attempt to change all the bosy copy to sans serif*/
+.entry-content > : last-child {
+	font font-family: Helvetica;
+	color: pink;
+}
